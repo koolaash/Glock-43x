@@ -5,8 +5,8 @@ A custom weapon for fivem!
 
 # Installation
 
-- Put the `LightSaber` into your `resources` folder.
-- ensure LightSaber - add this line in your `server.cfg`
+- Put the `Glock-43x` into your `resources` folder.
+- ensure Glock-43x - add this line in your `server.cfg`
 
 # If using ox_inventory
 
