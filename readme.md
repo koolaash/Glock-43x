@@ -1,7 +1,7 @@
 
 # Glock 43X
 
-A custom light saber weapon for fivem!
+A custom weapon for fivem!
 
 # Installation
 
