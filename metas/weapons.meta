@@ -16,7 +16,7 @@
 			<Infos>
 				<Item type="CWeaponInfo">
 					<Name>WEAPON_GLOCK43X</Name>
-					<Model>w_pi_glock22</Model>
+					<Model>w_pi_glock43x_pistol</Model>
 					<Audio>AUDIO_ITEM_PISTOL</Audio>
 					<Slot>SLOT_WEAPON_GLOCK43X</Slot>
 					<DamageType>BULLET</DamageType>
