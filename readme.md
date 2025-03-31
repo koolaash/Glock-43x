@@ -34,4 +34,4 @@ A custom weapon for fivem!
     `weapon_glock43x`
 ```
 # Credits
-- [qcvntrx](https://www.gta5-mods.com/users/qcvntrx)
+- [Sxprk](https://www.gta5-mods.com/users/Sxprk)
